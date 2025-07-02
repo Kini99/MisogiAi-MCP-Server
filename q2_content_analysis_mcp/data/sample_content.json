@@ -1,0 +1,1048 @@
+{
+  "meetings": [
+    {
+      "id": "m1",
+      "title": "Weekly Team Sync",
+      "participants": [
+        "alice@example.com",
+        "bob@example.com",
+        "carol@example.com"
+      ],
+      "start_time": "2024-06-10T14:00:00+02:00",
+      "end_time": "2024-06-10T15:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "agenda": "Discuss weekly progress, blockers, and upcoming priorities",
+      "meeting_type": "team_sync",
+      "effectiveness_score": 7.8
+    },
+    {
+      "id": "m2",
+      "title": "Product Planning Session",
+      "participants": [
+        "carol@example.com",
+        "alice@example.com",
+        "david@example.com"
+      ],
+      "start_time": "2024-06-11T09:00:00-04:00",
+      "end_time": "2024-06-11T10:30:00-04:00",
+      "timezone": "America/New_York",
+      "agenda": "Plan Q3 product roadmap and feature priorities",
+      "meeting_type": "planning",
+      "effectiveness_score": 8.2
+    },
+    {
+      "id": "m3",
+      "title": "Code Review Meeting",
+      "participants": [
+        "bob@example.com",
+        "eve@example.com"
+      ],
+      "start_time": "2024-06-12T11:00:00+01:00",
+      "end_time": "2024-06-12T12:00:00+01:00",
+      "timezone": "Europe/London",
+      "agenda": "Review pull requests and discuss code quality",
+      "meeting_type": "code_review",
+      "effectiveness_score": 6.5
+    },
+    {
+      "id": "m4",
+      "title": "Client Presentation",
+      "participants": [
+        "alice@example.com",
+        "frank@example.com",
+        "grace@example.com"
+      ],
+      "start_time": "2024-06-13T15:00:00-05:00",
+      "end_time": "2024-06-13T16:00:00-05:00",
+      "timezone": "America/Chicago",
+      "agenda": "Present quarterly results to key client",
+      "meeting_type": "client_meeting",
+      "effectiveness_score": 9.1
+    },
+    {
+      "id": "m5",
+      "title": "Sprint Retrospective",
+      "participants": [
+        "bob@example.com",
+        "carol@example.com",
+        "david@example.com",
+        "eve@example.com"
+      ],
+      "start_time": "2024-06-14T16:00:00+02:00",
+      "end_time": "2024-06-14T17:30:00+02:00",
+      "timezone": "Europe/Berlin",
+      "agenda": "Review sprint outcomes and plan improvements",
+      "meeting_type": "retrospective",
+      "effectiveness_score": 7.9
+    },
+    {
+      "id": "m6",
+      "title": "Design Workshop",
+      "participants": [
+        "grace@example.com",
+        "alice@example.com",
+        "henry@example.com"
+      ],
+      "start_time": "2024-06-17T10:00:00-07:00",
+      "end_time": "2024-06-17T12:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "agenda": "Design system workshop and component library discussion",
+      "meeting_type": "workshop",
+      "effectiveness_score": 8.7
+    },
+    {
+      "id": "m7",
+      "title": "Daily Standup",
+      "participants": [
+        "bob@example.com",
+        "eve@example.com",
+        "frank@example.com"
+      ],
+      "start_time": "2024-06-18T09:00:00+01:00",
+      "end_time": "2024-06-18T09:15:00+01:00",
+      "timezone": "Europe/London",
+      "agenda": "Daily progress update and blocker identification",
+      "meeting_type": "standup",
+      "effectiveness_score": 6.8
+    },
+    {
+      "id": "m8",
+      "title": "Architecture Review",
+      "participants": [
+        "david@example.com",
+        "henry@example.com",
+        "grace@example.com"
+      ],
+      "start_time": "2024-06-19T14:00:00-04:00",
+      "end_time": "2024-06-19T15:30:00-04:00",
+      "timezone": "America/New_York",
+      "agenda": "Review system architecture and scalability plans",
+      "meeting_type": "technical_review",
+      "effectiveness_score": 8.5
+    },
+    {
+      "id": "m9",
+      "title": "Marketing Strategy",
+      "participants": [
+        "carol@example.com",
+        "frank@example.com",
+        "alice@example.com"
+      ],
+      "start_time": "2024-06-20T11:00:00+02:00",
+      "end_time": "2024-06-20T12:30:00+02:00",
+      "timezone": "Europe/Berlin",
+      "agenda": "Discuss Q3 marketing strategy and campaign planning",
+      "meeting_type": "strategy",
+      "effectiveness_score": 7.6
+    },
+    {
+      "id": "m10",
+      "title": "Bug Triage",
+      "participants": [
+        "eve@example.com",
+        "bob@example.com",
+        "david@example.com"
+      ],
+      "start_time": "2024-06-21T13:00:00+01:00",
+      "end_time": "2024-06-21T14:00:00+01:00",
+      "timezone": "Europe/London",
+      "agenda": "Prioritize and assign critical bugs",
+      "meeting_type": "bug_triage",
+      "effectiveness_score": 7.2
+    },
+    {
+      "id": "m11",
+      "title": "User Research Debrief",
+      "participants": [
+        "grace@example.com",
+        "henry@example.com",
+        "carol@example.com"
+      ],
+      "start_time": "2024-06-24T15:00:00-07:00",
+      "end_time": "2024-06-24T16:30:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "agenda": "Share user research findings and insights",
+      "meeting_type": "research",
+      "effectiveness_score": 8.9
+    },
+    {
+      "id": "m12",
+      "title": "Performance Review",
+      "participants": [
+        "alice@example.com",
+        "frank@example.com"
+      ],
+      "start_time": "2024-06-25T10:00:00-05:00",
+      "end_time": "2024-06-25T11:00:00-05:00",
+      "timezone": "America/Chicago",
+      "agenda": "Quarterly performance review and goal setting",
+      "meeting_type": "performance_review",
+      "effectiveness_score": 8.1
+    },
+    {
+      "id": "m13",
+      "title": "Security Audit",
+      "participants": [
+        "david@example.com",
+        "henry@example.com",
+        "eve@example.com"
+      ],
+      "start_time": "2024-06-26T14:00:00-04:00",
+      "end_time": "2024-06-26T16:00:00-04:00",
+      "timezone": "America/New_York",
+      "agenda": "Security audit review and vulnerability assessment",
+      "meeting_type": "security",
+      "effectiveness_score": 9.3
+    },
+    {
+      "id": "m14",
+      "title": "Budget Planning",
+      "participants": [
+        "carol@example.com",
+        "frank@example.com",
+        "alice@example.com"
+      ],
+      "start_time": "2024-06-27T09:00:00+02:00",
+      "end_time": "2024-06-27T11:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "agenda": "Q3 budget planning and resource allocation",
+      "meeting_type": "budget",
+      "effectiveness_score": 7.4
+    },
+    {
+      "id": "m15",
+      "title": "API Design Review",
+      "participants": [
+        "bob@example.com",
+        "grace@example.com",
+        "david@example.com"
+      ],
+      "start_time": "2024-06-28T13:00:00+01:00",
+      "end_time": "2024-06-28T14:30:00+01:00",
+      "timezone": "Europe/London",
+      "agenda": "Review new API design and specifications",
+      "meeting_type": "technical_review",
+      "effectiveness_score": 8.0
+    },
+    {
+      "id": "m16",
+      "title": "Customer Success Meeting",
+      "participants": [
+        "henry@example.com",
+        "frank@example.com"
+      ],
+      "start_time": "2024-07-01T11:00:00-07:00",
+      "end_time": "2024-07-01T12:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "agenda": "Customer success metrics and improvement strategies",
+      "meeting_type": "customer_success",
+      "effectiveness_score": 7.8
+    },
+    {
+      "id": "m17",
+      "title": "DevOps Planning",
+      "participants": [
+        "eve@example.com",
+        "david@example.com",
+        "henry@example.com"
+      ],
+      "start_time": "2024-07-02T15:00:00-04:00",
+      "end_time": "2024-07-02T16:30:00-04:00",
+      "timezone": "America/New_York",
+      "agenda": "Infrastructure planning and deployment strategy",
+      "meeting_type": "devops",
+      "effectiveness_score": 8.3
+    },
+    {
+      "id": "m18",
+      "title": "Sales Pipeline Review",
+      "participants": [
+        "carol@example.com",
+        "grace@example.com",
+        "frank@example.com"
+      ],
+      "start_time": "2024-07-03T10:00:00+02:00",
+      "end_time": "2024-07-03T11:30:00+02:00",
+      "timezone": "Europe/Berlin",
+      "agenda": "Review sales pipeline and conversion metrics",
+      "meeting_type": "sales",
+      "effectiveness_score": 7.9
+    },
+    {
+      "id": "m19",
+      "title": "Frontend Team Sync",
+      "participants": [
+        "grace@example.com",
+        "henry@example.com",
+        "alice@example.com"
+      ],
+      "start_time": "2024-07-04T14:00:00-07:00",
+      "end_time": "2024-07-04T15:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "agenda": "Frontend development updates and coordination",
+      "meeting_type": "team_sync",
+      "effectiveness_score": 7.5
+    },
+    {
+      "id": "m20",
+      "title": "Backend Architecture",
+      "participants": [
+        "david@example.com",
+        "bob@example.com",
+        "eve@example.com"
+      ],
+      "start_time": "2024-07-05T11:00:00+01:00",
+      "end_time": "2024-07-05T12:30:00+01:00",
+      "timezone": "Europe/London",
+      "agenda": "Backend architecture decisions and scaling plans",
+      "meeting_type": "technical_review",
+      "effectiveness_score": 8.6
+    },
+    {
+      "id": "m21",
+      "title": "Data Analytics Review",
+      "participants": [
+        "henry@example.com",
+        "carol@example.com",
+        "frank@example.com"
+      ],
+      "start_time": "2024-07-08T13:00:00-04:00",
+      "end_time": "2024-07-08T14:30:00-04:00",
+      "timezone": "America/New_York",
+      "agenda": "Review analytics data and insights",
+      "meeting_type": "analytics",
+      "effectiveness_score": 8.1
+    },
+    {
+      "id": "m22",
+      "title": "UI/UX Design Review",
+      "participants": [
+        "grace@example.com",
+        "alice@example.com",
+        "henry@example.com"
+      ],
+      "start_time": "2024-07-09T15:00:00+02:00",
+      "end_time": "2024-07-09T16:30:00+02:00",
+      "timezone": "Europe/Berlin",
+      "agenda": "Review new UI/UX designs and user flows",
+      "meeting_type": "design_review",
+      "effectiveness_score": 8.4
+    },
+    {
+      "id": "m23",
+      "title": "Quality Assurance",
+      "participants": [
+        "eve@example.com",
+        "bob@example.com",
+        "david@example.com"
+      ],
+      "start_time": "2024-07-10T10:00:00-07:00",
+      "end_time": "2024-07-10T11:30:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "agenda": "QA process review and testing strategy",
+      "meeting_type": "qa",
+      "effectiveness_score": 7.7
+    },
+    {
+      "id": "m24",
+      "title": "Legal Compliance",
+      "participants": [
+        "frank@example.com",
+        "carol@example.com",
+        "alice@example.com"
+      ],
+      "start_time": "2024-07-11T14:00:00-05:00",
+      "end_time": "2024-07-11T15:30:00-05:00",
+      "timezone": "America/Chicago",
+      "agenda": "Legal compliance review and regulatory updates",
+      "meeting_type": "legal",
+      "effectiveness_score": 8.8
+    },
+    {
+      "id": "m25",
+      "title": "Mobile Development",
+      "participants": [
+        "henry@example.com",
+        "grace@example.com",
+        "bob@example.com"
+      ],
+      "start_time": "2024-07-12T11:00:00+01:00",
+      "end_time": "2024-07-12T12:30:00+01:00",
+      "timezone": "Europe/London",
+      "agenda": "Mobile app development updates and roadmap",
+      "meeting_type": "development",
+      "effectiveness_score": 7.9
+    },
+    {
+      "id": "m26",
+      "title": "Investor Update",
+      "participants": [
+        "carol@example.com",
+        "frank@example.com",
+        "alice@example.com"
+      ],
+      "start_time": "2024-07-15T09:00:00-04:00",
+      "end_time": "2024-07-15T10:30:00-04:00",
+      "timezone": "America/New_York",
+      "agenda": "Quarterly investor update and financial review",
+      "meeting_type": "investor",
+      "effectiveness_score": 9.2
+    },
+    {
+      "id": "m27",
+      "title": "Machine Learning Review",
+      "participants": [
+        "david@example.com",
+        "henry@example.com",
+        "eve@example.com"
+      ],
+      "start_time": "2024-07-16T15:00:00+02:00",
+      "end_time": "2024-07-16T16:30:00+02:00",
+      "timezone": "Europe/Berlin",
+      "agenda": "ML model performance review and improvements",
+      "meeting_type": "ml_review",
+      "effectiveness_score": 8.7
+    },
+    {
+      "id": "m28",
+      "title": "Content Strategy",
+      "participants": [
+        "grace@example.com",
+        "carol@example.com",
+        "frank@example.com"
+      ],
+      "start_time": "2024-07-17T13:00:00-07:00",
+      "end_time": "2024-07-17T14:30:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "agenda": "Content strategy and editorial calendar planning",
+      "meeting_type": "content",
+      "effectiveness_score": 7.6
+    },
+    {
+      "id": "m29",
+      "title": "Database Optimization",
+      "participants": [
+        "bob@example.com",
+        "david@example.com",
+        "henry@example.com"
+      ],
+      "start_time": "2024-07-18T10:00:00+01:00",
+      "end_time": "2024-07-18T11:30:00+01:00",
+      "timezone": "Europe/London",
+      "agenda": "Database performance optimization and scaling",
+      "meeting_type": "technical_review",
+      "effectiveness_score": 8.3
+    },
+    {
+      "id": "m30",
+      "title": "Customer Feedback",
+      "participants": [
+        "alice@example.com",
+        "grace@example.com",
+        "henry@example.com"
+      ],
+      "start_time": "2024-07-19T14:00:00-05:00",
+      "end_time": "2024-07-19T15:00:00-05:00",
+      "timezone": "America/Chicago",
+      "agenda": "Customer feedback analysis and feature requests",
+      "meeting_type": "customer_feedback",
+      "effectiveness_score": 8.5
+    },
+    {
+      "id": "m31",
+      "title": "Sprint Planning",
+      "participants": [
+        "bob@example.com",
+        "carol@example.com",
+        "david@example.com",
+        "eve@example.com"
+      ],
+      "start_time": "2024-07-22T09:00:00-04:00",
+      "end_time": "2024-07-22T11:00:00-04:00",
+      "timezone": "America/New_York",
+      "agenda": "Sprint planning and story point estimation",
+      "meeting_type": "sprint_planning",
+      "effectiveness_score": 8.0
+    },
+    {
+      "id": "m32",
+      "title": "Brand Strategy",
+      "participants": [
+        "frank@example.com",
+        "grace@example.com",
+        "alice@example.com"
+      ],
+      "start_time": "2024-07-23T15:00:00+02:00",
+      "end_time": "2024-07-23T16:30:00+02:00",
+      "timezone": "Europe/Berlin",
+      "agenda": "Brand strategy and visual identity updates",
+      "meeting_type": "brand",
+      "effectiveness_score": 7.8
+    },
+    {
+      "id": "m33",
+      "title": "API Documentation",
+      "participants": [
+        "david@example.com",
+        "bob@example.com",
+        "grace@example.com"
+      ],
+      "start_time": "2024-07-24T11:00:00-07:00",
+      "end_time": "2024-07-24T12:30:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "agenda": "API documentation review and improvements",
+      "meeting_type": "documentation",
+      "effectiveness_score": 7.4
+    },
+    {
+      "id": "m34",
+      "title": "Performance Review",
+      "participants": [
+        "eve@example.com",
+        "frank@example.com"
+      ],
+      "start_time": "2024-07-25T13:00:00+01:00",
+      "end_time": "2024-07-25T14:00:00+01:00",
+      "timezone": "Europe/London",
+      "agenda": "Performance review and goal setting",
+      "meeting_type": "performance_review",
+      "effectiveness_score": 8.1
+    },
+    {
+      "id": "m35",
+      "title": "Security Training",
+      "participants": [
+        "alice@example.com",
+        "bob@example.com",
+        "carol@example.com",
+        "david@example.com",
+        "eve@example.com"
+      ],
+      "start_time": "2024-07-26T14:00:00-04:00",
+      "end_time": "2024-07-26T15:30:00-04:00",
+      "timezone": "America/New_York",
+      "agenda": "Security awareness training and best practices",
+      "meeting_type": "training",
+      "effectiveness_score": 8.9
+    },
+    {
+      "id": "m36",
+      "title": "Product Demo",
+      "participants": [
+        "henry@example.com",
+        "grace@example.com",
+        "frank@example.com"
+      ],
+      "start_time": "2024-07-29T10:00:00+02:00",
+      "end_time": "2024-07-29T11:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "agenda": "Product demo for potential clients",
+      "meeting_type": "demo",
+      "effectiveness_score": 8.7
+    },
+    {
+      "id": "m37",
+      "title": "Code Quality",
+      "participants": [
+        "bob@example.com",
+        "eve@example.com",
+        "david@example.com"
+      ],
+      "start_time": "2024-07-30T15:00:00-07:00",
+      "end_time": "2024-07-30T16:30:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "agenda": "Code quality standards and review process",
+      "meeting_type": "code_quality",
+      "effectiveness_score": 7.6
+    },
+    {
+      "id": "m38",
+      "title": "Market Research",
+      "participants": [
+        "carol@example.com",
+        "alice@example.com",
+        "henry@example.com"
+      ],
+      "start_time": "2024-07-31T11:00:00-05:00",
+      "end_time": "2024-07-31T12:30:00-05:00",
+      "timezone": "America/Chicago",
+      "agenda": "Market research findings and competitive analysis",
+      "meeting_type": "market_research",
+      "effectiveness_score": 8.3
+    },
+    {
+      "id": "m39",
+      "title": "Infrastructure Planning",
+      "participants": [
+        "david@example.com",
+        "henry@example.com",
+        "eve@example.com"
+      ],
+      "start_time": "2024-08-01T13:00:00+01:00",
+      "end_time": "2024-08-01T14:30:00+01:00",
+      "timezone": "Europe/London",
+      "agenda": "Infrastructure scaling and cloud migration planning",
+      "meeting_type": "infrastructure",
+      "effectiveness_score": 8.5
+    },
+    {
+      "id": "m40",
+      "title": "User Experience",
+      "participants": [
+        "grace@example.com",
+        "alice@example.com",
+        "frank@example.com"
+      ],
+      "start_time": "2024-08-02T14:00:00-04:00",
+      "end_time": "2024-08-02T15:30:00-04:00",
+      "timezone": "America/New_York",
+      "agenda": "UX research findings and design improvements",
+      "meeting_type": "ux_research",
+      "effectiveness_score": 8.8
+    },
+    {
+      "id": "m41",
+      "title": "Team Building",
+      "participants": [
+        "alice@example.com",
+        "bob@example.com",
+        "carol@example.com",
+        "david@example.com",
+        "eve@example.com",
+        "frank@example.com",
+        "grace@example.com",
+        "henry@example.com"
+      ],
+      "start_time": "2024-08-05T16:00:00+02:00",
+      "end_time": "2024-08-05T18:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "agenda": "Team building activities and social event",
+      "meeting_type": "team_building",
+      "effectiveness_score": 9.1
+    },
+    {
+      "id": "m42",
+      "title": "Release Planning",
+      "participants": [
+        "bob@example.com",
+        "david@example.com",
+        "grace@example.com"
+      ],
+      "start_time": "2024-08-06T10:00:00-07:00",
+      "end_time": "2024-08-06T11:30:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "agenda": "Software release planning and deployment strategy",
+      "meeting_type": "release_planning",
+      "effectiveness_score": 8.2
+    },
+    {
+      "id": "m43",
+      "title": "Financial Review",
+      "participants": [
+        "frank@example.com",
+        "carol@example.com",
+        "alice@example.com"
+      ],
+      "start_time": "2024-08-07T13:00:00-05:00",
+      "end_time": "2024-08-07T14:30:00-05:00",
+      "timezone": "America/Chicago",
+      "agenda": "Monthly financial review and budget tracking",
+      "meeting_type": "financial",
+      "effectiveness_score": 8.6
+    },
+    {
+      "id": "m44",
+      "title": "Testing Strategy",
+      "participants": [
+        "eve@example.com",
+        "henry@example.com",
+        "bob@example.com"
+      ],
+      "start_time": "2024-08-08T11:00:00+01:00",
+      "end_time": "2024-08-08T12:30:00+01:00",
+      "timezone": "Europe/London",
+      "agenda": "Testing strategy and automation planning",
+      "meeting_type": "testing",
+      "effectiveness_score": 7.9
+    },
+    {
+      "id": "m45",
+      "title": "Product Launch",
+      "participants": [
+        "carol@example.com",
+        "grace@example.com",
+        "frank@example.com",
+        "alice@example.com"
+      ],
+      "start_time": "2024-08-09T15:00:00-04:00",
+      "end_time": "2024-08-09T16:30:00-04:00",
+      "timezone": "America/New_York",
+      "agenda": "Product launch planning and go-to-market strategy",
+      "meeting_type": "product_launch",
+      "effectiveness_score": 9.0
+    },
+    {
+      "id": "m46",
+      "title": "Data Privacy",
+      "participants": [
+        "david@example.com",
+        "henry@example.com",
+        "frank@example.com"
+      ],
+      "start_time": "2024-08-12T14:00:00+02:00",
+      "end_time": "2024-08-12T15:30:00+02:00",
+      "timezone": "Europe/Berlin",
+      "agenda": "Data privacy compliance and GDPR review",
+      "meeting_type": "privacy",
+      "effectiveness_score": 8.7
+    },
+    {
+      "id": "m47",
+      "title": "Mobile Testing",
+      "participants": [
+        "grace@example.com",
+        "eve@example.com",
+        "henry@example.com"
+      ],
+      "start_time": "2024-08-13T10:00:00-07:00",
+      "end_time": "2024-08-13T11:30:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "agenda": "Mobile app testing and quality assurance",
+      "meeting_type": "mobile_testing",
+      "effectiveness_score": 7.8
+    },
+    {
+      "id": "m48",
+      "title": "Sales Training",
+      "participants": [
+        "frank@example.com",
+        "carol@example.com",
+        "alice@example.com"
+      ],
+      "start_time": "2024-08-14T13:00:00-05:00",
+      "end_time": "2024-08-14T14:30:00-05:00",
+      "timezone": "America/Chicago",
+      "agenda": "Sales team training and best practices",
+      "meeting_type": "sales_training",
+      "effectiveness_score": 8.4
+    },
+    {
+      "id": "m49",
+      "title": "Backend Optimization",
+      "participants": [
+        "bob@example.com",
+        "david@example.com",
+        "henry@example.com"
+      ],
+      "start_time": "2024-08-15T11:00:00+01:00",
+      "end_time": "2024-08-15T12:30:00+01:00",
+      "timezone": "Europe/London",
+      "agenda": "Backend performance optimization and monitoring",
+      "meeting_type": "backend_optimization",
+      "effectiveness_score": 8.1
+    },
+    {
+      "id": "m50",
+      "title": "Customer Success",
+      "participants": [
+        "grace@example.com",
+        "frank@example.com",
+        "henry@example.com"
+      ],
+      "start_time": "2024-08-16T15:00:00-04:00",
+      "end_time": "2024-08-16T16:00:00-04:00",
+      "timezone": "America/New_York",
+      "agenda": "Customer success metrics and retention strategies",
+      "meeting_type": "customer_success",
+      "effectiveness_score": 8.3
+    },
+    {
+      "id": "m51",
+      "title": "Frontend Optimization",
+      "participants": [
+        "alice@example.com",
+        "grace@example.com",
+        "bob@example.com"
+      ],
+      "start_time": "2024-08-19T14:00:00+02:00",
+      "end_time": "2024-08-19T15:30:00+02:00",
+      "timezone": "Europe/Berlin",
+      "agenda": "Frontend performance optimization and user experience",
+      "meeting_type": "frontend_optimization",
+      "effectiveness_score": 7.9
+    },
+    {
+      "id": "m52",
+      "title": "API Security",
+      "participants": [
+        "david@example.com",
+        "eve@example.com",
+        "henry@example.com"
+      ],
+      "start_time": "2024-08-20T10:00:00-07:00",
+      "end_time": "2024-08-20T11:30:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "agenda": "API security review and authentication improvements",
+      "meeting_type": "api_security",
+      "effectiveness_score": 9.2
+    },
+    {
+      "id": "m53",
+      "title": "Marketing Analytics",
+      "participants": [
+        "carol@example.com",
+        "henry@example.com",
+        "frank@example.com"
+      ],
+      "start_time": "2024-08-21T13:00:00-05:00",
+      "end_time": "2024-08-21T14:30:00-05:00",
+      "timezone": "America/Chicago",
+      "agenda": "Marketing analytics review and campaign optimization",
+      "meeting_type": "marketing_analytics",
+      "effectiveness_score": 8.0
+    },
+    {
+      "id": "m54",
+      "title": "Database Migration",
+      "participants": [
+        "bob@example.com",
+        "david@example.com",
+        "eve@example.com"
+      ],
+      "start_time": "2024-08-22T11:00:00+01:00",
+      "end_time": "2024-08-22T12:30:00+01:00",
+      "timezone": "Europe/London",
+      "agenda": "Database migration planning and execution strategy",
+      "meeting_type": "database_migration",
+      "effectiveness_score": 8.4
+    },
+    {
+      "id": "m55",
+      "title": "Product Roadmap",
+      "participants": [
+        "alice@example.com",
+        "carol@example.com",
+        "grace@example.com"
+      ],
+      "start_time": "2024-08-23T15:00:00-04:00",
+      "end_time": "2024-08-23T16:30:00-04:00",
+      "timezone": "America/New_York",
+      "agenda": "Product roadmap planning and feature prioritization",
+      "meeting_type": "product_roadmap",
+      "effectiveness_score": 8.6
+    },
+    {
+      "id": "m56",
+      "title": "DevOps Automation",
+      "participants": [
+        "henry@example.com",
+        "david@example.com",
+        "eve@example.com"
+      ],
+      "start_time": "2024-08-26T14:00:00+02:00",
+      "end_time": "2024-08-26T15:30:00+02:00",
+      "timezone": "Europe/Berlin",
+      "agenda": "DevOps automation and CI/CD pipeline improvements",
+      "meeting_type": "devops_automation",
+      "effectiveness_score": 8.3
+    },
+    {
+      "id": "m57",
+      "title": "User Onboarding",
+      "participants": [
+        "grace@example.com",
+        "frank@example.com",
+        "alice@example.com"
+      ],
+      "start_time": "2024-08-27T10:00:00-07:00",
+      "end_time": "2024-08-27T11:30:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "agenda": "User onboarding process and experience optimization",
+      "meeting_type": "user_onboarding",
+      "effectiveness_score": 8.7
+    },
+    {
+      "id": "m58",
+      "title": "Compliance Audit",
+      "participants": [
+        "frank@example.com",
+        "david@example.com",
+        "henry@example.com"
+      ],
+      "start_time": "2024-08-28T13:00:00-05:00",
+      "end_time": "2024-08-28T14:30:00-05:00",
+      "timezone": "America/Chicago",
+      "agenda": "Compliance audit and regulatory requirements review",
+      "meeting_type": "compliance_audit",
+      "effectiveness_score": 8.9
+    },
+    {
+      "id": "m59",
+      "title": "Performance Monitoring",
+      "participants": [
+        "bob@example.com",
+        "henry@example.com",
+        "eve@example.com"
+      ],
+      "start_time": "2024-08-29T11:00:00+01:00",
+      "end_time": "2024-08-29T12:30:00+01:00",
+      "timezone": "Europe/London",
+      "agenda": "Performance monitoring and alerting system setup",
+      "meeting_type": "performance_monitoring",
+      "effectiveness_score": 8.2
+    },
+    {
+      "id": "m60",
+      "title": "Quarterly Review",
+      "participants": [
+        "alice@example.com",
+        "carol@example.com",
+        "frank@example.com",
+        "grace@example.com"
+      ],
+      "start_time": "2024-08-30T15:00:00-04:00",
+      "end_time": "2024-08-30T17:00:00-04:00",
+      "timezone": "America/New_York",
+      "agenda": "Quarterly business review and strategic planning",
+      "meeting_type": "quarterly_review",
+      "effectiveness_score": 9.0
+    },
+    {
+      "id": "m61",
+      "title": "Innovation Workshop",
+      "participants": [
+        "henry@example.com",
+        "grace@example.com",
+        "alice@example.com",
+        "bob@example.com"
+      ],
+      "start_time": "2024-09-02T14:00:00+02:00",
+      "end_time": "2024-09-02T16:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "agenda": "Innovation workshop and new technology exploration",
+      "meeting_type": "innovation_workshop",
+      "effectiveness_score": 8.8
+    },
+    {
+      "id": "m62",
+      "title": "Customer Support",
+      "participants": [
+        "frank@example.com",
+        "eve@example.com",
+        "grace@example.com"
+      ],
+      "start_time": "2024-09-03T10:00:00-07:00",
+      "end_time": "2024-09-03T11:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "agenda": "Customer support process improvement and training",
+      "meeting_type": "customer_support",
+      "effectiveness_score": 7.9
+    }
+  ],
+  "users": [
+    {
+      "user_id": "alice@example.com",
+      "preferred_hours": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "timezone": "Europe/Berlin",
+      "meeting_preferences": {
+        "max_daily_meetings": 4,
+        "preferred_duration": 60,
+        "buffer_time": 15
+      }
+    },
+    {
+      "user_id": "bob@example.com",
+      "preferred_hours": {
+        "start": "10:00",
+        "end": "18:00"
+      },
+      "timezone": "Europe/London",
+      "meeting_preferences": {
+        "max_daily_meetings": 5,
+        "preferred_duration": 30,
+        "buffer_time": 10
+      }
+    },
+    {
+      "user_id": "carol@example.com",
+      "preferred_hours": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "timezone": "America/New_York",
+      "meeting_preferences": {
+        "max_daily_meetings": 3,
+        "preferred_duration": 45,
+        "buffer_time": 20
+      }
+    },
+    {
+      "user_id": "david@example.com",
+      "preferred_hours": {
+        "start": "09:30",
+        "end": "17:30"
+      },
+      "timezone": "America/New_York",
+      "meeting_preferences": {
+        "max_daily_meetings": 4,
+        "preferred_duration": 60,
+        "buffer_time": 15
+      }
+    },
+    {
+      "user_id": "eve@example.com",
+      "preferred_hours": {
+        "start": "08:30",
+        "end": "16:30"
+      },
+      "timezone": "Europe/London",
+      "meeting_preferences": {
+        "max_daily_meetings": 6,
+        "preferred_duration": 45,
+        "buffer_time": 10
+      }
+    },
+    {
+      "user_id": "frank@example.com",
+      "preferred_hours": {
+        "start": "07:00",
+        "end": "15:00"
+      },
+      "timezone": "America/Chicago",
+      "meeting_preferences": {
+        "max_daily_meetings": 4,
+        "preferred_duration": 30,
+        "buffer_time": 20
+      }
+    },
+    {
+      "user_id": "grace@example.com",
+      "preferred_hours": {
+        "start": "10:00",
+        "end": "18:00"
+      },
+      "timezone": "America/Los_Angeles",
+      "meeting_preferences": {
+        "max_daily_meetings": 3,
+        "preferred_duration": 60,
+        "buffer_time": 25
+      }
+    },
+    {
+      "user_id": "henry@example.com",
+      "preferred_hours": {
+        "start": "08:00",
+        "end": "16:00"
+      },
+      "timezone": "America/Los_Angeles",
+      "meeting_preferences": {
+        "max_daily_meetings": 5,
+        "preferred_duration": 45,
+        "buffer_time": 10
+      }
+    }
+  ]
+}
