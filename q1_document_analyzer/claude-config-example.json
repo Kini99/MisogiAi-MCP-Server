@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "document-analyzer": {
+      "command": "node",
+      "args": ["dist/index.js"], //mention the path to the index.js file
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+} 
